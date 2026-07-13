@@ -1,0 +1,23 @@
+create 2 arguments for the files
+Get the name of the english file
+    - Open file 
+    - read contents are strored in a string
+    - close the file 
+translate the string from english to robber language
+    - Sentence gets broken down into words 
+    - words then get broken into consonants and vowels
+    - translates each of the char seperately 
+create html format string
+    - put in the english Sentence
+    - put in the robber translated sentence
+use the html string to then put inside the robber html file
+    - Open the robber file
+    - write the output into the file 
+    - close the file
+
+
+
+
+
+
+
